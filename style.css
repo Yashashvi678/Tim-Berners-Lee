@@ -85,3 +85,6 @@ p {
 .links:hover {
     background-color: dodgerblue;
 }
+html {
+    scroll-behavior: smooth;
+}
